@@ -6,8 +6,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=laurelin888&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=laurelin888&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelin888&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
--- Proudly created with GPRM ( https://gprm.itsvg.in ) --
